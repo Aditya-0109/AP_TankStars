@@ -2,4 +2,4 @@
 Repository for AP project - Tank stars game
 
 
-# We are making the Tank stars game and are currently working on the static GUI of our game.
+# This is an implementation of existing game, Tank Stars with appropriate features and special powerups using O.O.P.'s concepts and serialization using LibGdx. 
