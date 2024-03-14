@@ -1,4 +1,4 @@
-# AP_TankStars
+# TankStars
 Repository for AP project - Tank stars game
 
 
